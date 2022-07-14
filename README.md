@@ -19,4 +19,4 @@ Unknown what causes it because a screen is rendered that is not null.
 Tried to see if it was the data from the draw colour was the problem.
 I changes the input for a bmp image, still no change.
 I assume it's something to do with my windows configuration, so I'll assume it works and test it when I get to a Linux machine at work.
-In the mean time
+In the mean time, I fully set up the tests ready to be tested on linux.
